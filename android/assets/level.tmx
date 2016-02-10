@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="50" tilewidth="16" tileheight="16" nextobjectid="6">
+ <tileset firstgid="1" name="desk" tilewidth="16" tileheight="15" tilecount="7" columns="7">
+  <image source="desk.png" width="112" height="15"/>
+ </tileset>
+ <layer name="background" width="30" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAIDXABdwAAE=
+  </data>
+ </layer>
+ <layer name="graphics" width="30" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztw7ENAAAEADAs/v+YKwzSJo0AAAAAAIA/ctfx3gMllABB
+  </data>
+ </layer>
+ <objectgroup name="desk">
+  <object id="5" x="0" y="784" width="480" height="16"/>
+ </objectgroup>
+</map>
